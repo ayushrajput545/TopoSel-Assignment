@@ -21,5 +21,5 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/ayushrajput545/TopoSel-Assignment.git
+   cd TopoSel-Assignment
